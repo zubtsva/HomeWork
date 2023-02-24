@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Зубцова");
         System.out.println("Лена");
         System.out.println("Авиадиспетчер");
-        System.out.println("Катание на сноуборде!");
+        System.out.println("Катание на сноуборде");
     }
 }
